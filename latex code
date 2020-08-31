@@ -1,0 +1,150 @@
+% coding: utf-8
+% ctex version:2.9.2.164
+% compile: XeLatex(prefer)
+
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\geometry{left = 0cm,right = 0cm,top = 1cm,bottom = 0cm}
+
+\date{\vspace{-10ex}}
+
+\begin{document}
+	\begin{table}[ht]
+		\centering
+		\caption{ACTIVITY INVENTORY(活动清单表)}
+		\begin{tabular}{|l|l|l|}\hline
+		\hspace*{15 ex}	&ACTIVITY INVENTORY(活动清单)&\hspace*{25 ex} \\ \hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		\end{tabular}
+	\end{table}
+\clearpage 
+
+\clearpage 
+\begin{table}[ht]
+\centering
+\caption{To Do List(今日待办表)}
+	\begin{tabular}{|l|l|l|}\hline
+		\hspace*{15 ex}	&\hspace*{10ex} To Do Today(今日待办) \hspace*{10ex}&\hspace*{25 ex} \\ \hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+		& &  \\\hline
+	\end{tabular}
+\end{table}
+\clearpage
+	%\maketitle
+\begin{table}[ht]
+	\centering
+	\caption{RECORDS(记录表)}
+	\begin{tabular}{|l|l|l|l|l|l|}\hline
+		\hspace*{2 ex}日期\hspace*{2 ex}&\hspace*{2 ex}时间\hspace*{2 ex}&任务类型&\hspace*{10 ex}任务描述\hspace*{10 ex}&番茄数&\hspace*{5 ex}备注\hspace*{5 ex} \\ \hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & &\\\hline
+		& & & & &\\\hline
+		& & & & &\\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & &  \\\hline
+		& & & & &  \\\hline
+		& & & & &  \\\hline
+		& & & & &\\\hline
+		& & & & &\\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & &\\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+		& & & & & \\\hline
+	\end{tabular}
+\end{table}
+\end{document}
